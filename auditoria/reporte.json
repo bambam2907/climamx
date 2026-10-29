@@ -1,0 +1,38 @@
+{
+ "visual": [
+  {
+   "sev": "info",
+   "title": "Familia tipográfica del h1 (en este entorno sin red carga el respaldo)",
+   "detail": "\"IBM Plex Sans\", \"Segoe UI\", Arial, sans-serif"
+  }
+ ],
+ "a11y": [
+  {
+   "sev": "info",
+   "title": "Landmarks",
+   "detail": "header:1 nav:1 main:1 footer:1"
+  },
+  {
+   "sev": "info",
+   "title": "Orden de tabulación (primeros elementos)",
+   "detail": "A:Saltar al explorador → A:ClimaMX → A:Explorador → A:Cómo se hizo → A:Método → A:Equipo → BUTTON:Tema → SELECT:Acapulco\nChihuahua\nCiudad de M → A:Explorar los resultados → SUMMARY:Ver los datos de esta ciudad c → BUTTON:Serie anual → BUTTON:Estaciones del año → BUTTON:Mes a mes → BUTTON:Días cálidos"
+  }
+ ],
+ "logica": [
+  {
+   "sev": "info",
+   "title": "Pruebas unitarias",
+   "detail": "26 pruebas pasaron, 0 fallaron"
+  }
+ ],
+ "capturas": [
+  "desktop-fold.png",
+  "desktop-completa.png",
+  "laptop-fold.png",
+  "tablet-fold.png",
+  "movil-fold.png",
+  "movil-completa.png",
+  "movil-chico-fold.png",
+  "desktop-oscuro.png"
+ ]
+}
